@@ -3,7 +3,8 @@ Email Information Extractor
 This python program was built during my second year at university in my natural language processing
 module. There were two mai areas to the assignment: entity tagging and an ontology.
 
-**Solution**
+Solution
+---------------
 Entity tagging There were 6 entities in total that required tagging. This included the start time,
 end time, speaker and location of the seminar. Also sentences and paragraphs needed to be tagged.
 An overarching theme of the way I went about this task was the utilisation of the header of the
