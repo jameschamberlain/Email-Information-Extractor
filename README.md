@@ -5,7 +5,7 @@ module. There were two mai areas to the assignment: entity tagging and an ontolo
 
 Solution
 ---------------
-###Entity tagging
+### Entity tagging
 There were 6 entities in total that required tagging. This included the start time,
 end time, speaker and location of the seminar. Also sentences and paragraphs needed to be tagged.
 An overarching theme of the way I went about this task was the utilisation of the header of the
@@ -59,7 +59,7 @@ recall: What I was tagging was correct in a lot of cases, but I was not tagging 
 in the text. I believe recall could have been improved by being more aggressive in my tagging, but
 this would have likely been at the cost of precision. 
  
-###Ontology
+### Ontology
 For the ontology I opted to combine a variety of NLP techniques to achieve my result. Upon
 reading in an email, I word tokenized the whole text. I then proceeded to normalise the words using
 lemmatization. I chose lemmatizing over stemming as in my opinion stemming can be overaggressive in
