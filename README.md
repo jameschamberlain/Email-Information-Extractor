@@ -1,7 +1,7 @@
 Email Information Extractor
 ===================================
 This python program was built during my second year at university in my natural language processing
-module. There were two mai areas to the assignment: entity tagging and an ontology.
+module. There were two main areas we were instructed to focus on during the assignment: entity tagging and an ontology.
 
 Solution
 ---------------
